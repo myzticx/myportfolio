@@ -1,0 +1,22 @@
+.contactcard {
+  height: 500px;
+  width: 1000px;
+  background-color: #2c04ec;
+  border-radius: 70px;
+  margin-top: -10%;
+  box-shadow: 10px 5px 50px rgba(255, 255, 255, 0.3);
+}
+
+.titletop {
+  font-size: 67px;
+  color: white;
+  margin-left: 20px;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.ContactAboutMe {
+  font-size: 40px;
+  color: white;
+  font-weight: 100;
+}
